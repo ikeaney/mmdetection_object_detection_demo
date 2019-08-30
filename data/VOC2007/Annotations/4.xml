@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>ImageSets</folder>
 	<filename>4.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\4.jpg</path>
+	<path>C:\Users\Iain\Documents\mmObjectDetection\mmdetection_object_detection_demo\data\VOCdevkit\VOC2007\ImageSets\4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,99 +12,99 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>195</xmin>
-			<ymin>66</ymin>
-			<xmax>358</xmax>
-			<ymax>219</ymax>
+			<xmin>168</xmin>
+			<ymin>388</ymin>
+			<xmax>305</xmax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>471</xmin>
-			<ymin>246</ymin>
-			<xmax>671</xmax>
-			<ymax>373</ymax>
+			<xmin>260</xmin>
+			<ymin>224</ymin>
+			<xmax>357</xmax>
+			<ymax>516</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>38</xmin>
-			<ymin>430</ymin>
-			<xmax>200</xmax>
-			<ymax>535</ymax>
+			<xmin>263</xmin>
+			<ymin>132</ymin>
+			<xmax>311</xmax>
+			<ymax>266</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>56</xmin>
-			<ymin>52</ymin>
-			<xmax>205</xmax>
-			<ymax>173</ymax>
+			<xmin>343</xmin>
+			<ymin>184</ymin>
+			<xmax>446</xmax>
+			<ymax>416</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>468</xmin>
-			<ymin>27</ymin>
-			<xmax>679</xmax>
-			<ymax>158</ymax>
+			<xmin>538</xmin>
+			<ymin>183</ymin>
+			<xmax>625</xmax>
+			<ymax>414</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>67</xmin>
-			<ymin>299</ymin>
-			<xmax>199</xmax>
-			<ymax>384</ymax>
+			<xmin>600</xmin>
+			<ymin>229</ymin>
+			<xmax>736</xmax>
+			<ymax>516</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>car</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>286</xmin>
-			<ymin>237</ymin>
-			<xmax>368</xmax>
-			<ymax>339</ymax>
+			<xmin>171</xmin>
+			<ymin>112</ymin>
+			<xmax>425</xmax>
+			<ymax>247</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>hazelnut</name>
+		<name>car</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>355</xmin>
-			<ymin>368</ymin>
-			<xmax>439</xmax>
-			<ymax>435</ymax>
+			<xmin>409</xmin>
+			<ymin>94</ymin>
+			<xmax>556</xmax>
+			<ymax>191</ymax>
 		</bndbox>
 	</object>
 </annotation>
