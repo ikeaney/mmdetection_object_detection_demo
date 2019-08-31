@@ -1,14 +1,14 @@
 <annotation>
 	<folder>JPEGImages</folder>
-	<filename>0.jpg</filename>
-	<path>C:\Users\Iain\Documents\mmObjectDetection\mmdetection_object_detection_demo\data\VOC2007\JPEGImages\0.jpg</path>
+	<filename>38.jpg</filename>
+	<path>C:\Users\Iain\Documents\mmObjectDetection\mmdetection_object_detection_demo\data\VOC2007\JPEGImages\38.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>800</width>
 		<height>600</height>
-		<depth>1</depth>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>441</xmin>
-			<ymin>107</ymin>
-			<xmax>511</xmax>
-			<ymax>372</ymax>
+			<xmin>354</xmin>
+			<ymin>124</ymin>
+			<xmax>464</xmax>
+			<ymax>419</ymax>
 		</bndbox>
 	</object>
 </annotation>
